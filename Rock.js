@@ -50,7 +50,7 @@ function getComputerChoice(){
 }
 
 function getHumanChoice(){
-    let user = prompt("Enter your thing: ");
+    let user = prompt("Enter (ROCK), (PAPER) or (SCISSOR): ");
     return user;
 }
 
